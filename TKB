@@ -1,6 +1,8 @@
 <html>
   <head>
     <meta charset="UTF-8">
+    <style>
+      td {text-align:center;}
 <h1> Thời Khoá Biểu </h1>
 <table border="1" width="100%">
   <tr>
@@ -21,6 +23,8 @@
   <tr>
     <td colspan="7"> Buổi chiều </td>
   </tr>
-
+  <tr>
+    <td> 1 </td> <td> Văn </td> <td>  </td> <td> Toán </td> <td> Địa </td> <td> KTPL </td> <td> V.ôn </td>
+  </tr>
 
 </table>
